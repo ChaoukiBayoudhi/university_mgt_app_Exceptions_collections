@@ -1,2 +1,7 @@
-package Exceptions;public class GradeException {
+package Exceptions;
+
+public class GradeException extends Exception{
+    public GradeException(String msg){
+        super(msg);
+    }
 }
