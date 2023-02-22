@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="02536df9-2982-4ff1-9447-a888a7b98be5" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exceptions/GradeException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exceptions/GradeException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StudentManagement/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StudentManagement/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/university_mgt_app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/university_mgt_app.iml" afterDir="false" />
-    </list>
+    <list default="true" id="02536df9-2982-4ff1-9447-a888a7b98be5" name="Changes" comment="first commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,12 +60,24 @@
       <workItem from="1675856647433" duration="1170000" />
       <workItem from="1676284734691" duration="496000" />
       <workItem from="1676459132439" duration="2009000" />
-      <workItem from="1676890223068" duration="4031000" />
+      <workItem from="1676890223068" duration="4197000" />
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1676948547740</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1676948547740</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
